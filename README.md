@@ -1,3 +1,5 @@
+# This is pretty old please don't look at it.
+
 ## What is this Project?
 This isn't even really a project. It's pieces of scripts and code scraps that I built as I informally introduced myself to programming, during the summer of being a rising senior in high school.  
 You will see pieces of small projects that I used to work on for daily convenience in this repository.  
